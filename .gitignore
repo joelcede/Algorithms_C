@@ -2,6 +2,7 @@
 #!/**/
 #!*.*
 !*.c*
+!deitel
 !*.gitignore
 .vscode
 *.json
